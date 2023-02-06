@@ -1,0 +1,1 @@
+We use UART2, and IDC1
